@@ -1,0 +1,29 @@
+.hidden{
+	display: none;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  width: 40%;
+  height: auto;
+}
+.progress {
+  margin-left: 100px;
+  width: 80%;
+}
+.container
+{
+	text-align: center;
+}
+#textTrivia{
+	margin-top: 10px;
+	font-size: 2em;
+}
+#restart{
+	margin-top: 10px;
+}
+.goToScore{
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
